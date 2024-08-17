@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Seenumaheshwaran/Fetching-the-data-from-free-API---ReactJS-Hooks---useEffect-/static/css/main.c064bcfb.css",
+    "main.js": "/Seenumaheshwaran/Fetching-the-data-from-free-API---ReactJS-Hooks---useEffect-/static/js/main.39a06034.js",
+    "index.html": "/Seenumaheshwaran/Fetching-the-data-from-free-API---ReactJS-Hooks---useEffect-/index.html",
+    "main.c064bcfb.css.map": "/Seenumaheshwaran/Fetching-the-data-from-free-API---ReactJS-Hooks---useEffect-/static/css/main.c064bcfb.css.map",
+    "main.39a06034.js.map": "/Seenumaheshwaran/Fetching-the-data-from-free-API---ReactJS-Hooks---useEffect-/static/js/main.39a06034.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c064bcfb.css",
+    "static/js/main.39a06034.js"
+  ]
+}
