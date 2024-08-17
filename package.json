@@ -1,5 +1,6 @@
 {
   "name": "myproject1",
+  "homepage": "https://github.com/Seenumaheshwaran/Fetching-the-data-from-free-API---ReactJS-Hooks---useEffect-",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
